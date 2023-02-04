@@ -1,1 +1,1 @@
-NO. of neuron=50;
+NO. of neuron=7;
