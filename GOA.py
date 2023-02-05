@@ -1,1 +1,2 @@
-NO. of neuron=7;
+My Name is Ayer.
+My name is Guru.
