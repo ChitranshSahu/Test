@@ -1,2 +1,2 @@
-My Name is Ayer.
-My name is Guru.
+My Name is A.
+My name is B.
